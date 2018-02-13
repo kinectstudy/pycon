@@ -1815,6 +1815,12 @@ body.account .page-content form {
   }
 }
 
+/* Reviews Content */
+#content.reviews-content {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
 /* Group Registrations Hax */
 #registrations {
   border: none;
@@ -1851,5 +1857,11 @@ body.account .page-content form {
 
 /* Jobs Page */
 
-#jobfairparticpants {
+#jobfairparticpants {}
+
+/* Schedule Page */
+td.slot.slot-break {
+  background: #92C6C2;
+  font-size: 1.1em;
+  font-weight: bold;
 }
